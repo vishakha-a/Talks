@@ -3,6 +3,7 @@ A list and links to all the talks, lecture series and presentations delivered by
 
 Talks completed:
 - Delta Analytics' interview talk
+- WiMLDS Bay Area [Slides](https://docs.google.com/presentation/d/1dJjOFLtrKYTPiZuFvyWiHmDdpH8cXKYXPp2TOH4BqEs/edit?usp=sharing)
 
 Talks to prepare:
 - Delta Analytics' graduation lecture
